@@ -1,4 +1,5 @@
 # wrong answer...
+# 正解はこちら　https://img.atcoder.jp/diverta2019/editorial.pdf
 
 import math
 N = int(input())
